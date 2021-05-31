@@ -1,1 +1,1 @@
-This project is a web page which calls for data with the help of Pokemon API (pokeapi.co). It lists all the data inside the fetched API with a Pagination. This project covers useState and useEffect hook of React, used 'Axios' Library in calling the API, and Styled-Components in styling.
+
